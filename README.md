@@ -1,5 +1,3 @@
-# CodeFromColab
-
 # JonModifiedTensorFlowTutorialBasicClassification.ipynb
 In order to learn the implementation of a convolutional network, I added some convolutional layers
 to the Basic Classification Exercise given in the keras tutorial: https://www.tensorflow.org/tutorials/keras/classification
