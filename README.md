@@ -10,4 +10,4 @@ As well, some hyperparemeters were altered to see how they affected accuracy.
 Basic Convnet on the CIFAR10 dataset
 
 # TensorFlowClassifcation3
-Basic Cnvnet on the CIFAR100 dataset
+Basic Convnet on the CIFAR100 dataset
