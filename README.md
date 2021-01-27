@@ -1,5 +1,5 @@
 # TensorFlowClassification2VGG16.ipynb
-Implementation of the VGG16 network to be trained on the CIFAR10 dataset. Accuracy= 0.81 (compared to 0.68 on a basic Convnet).
+Implementation of the VGG16 network (from scratch) to be trained on the CIFAR10 dataset. Accuracy= 0.81 (compared to 0.68 on a basic Convnet).
 
 # JonModifiedTensorFlowTutorialBasicClassification.ipynb
 In order to learn the implementation of a convolutional network, I added some convolutional layers
