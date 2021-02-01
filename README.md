@@ -1,3 +1,6 @@
+# RecurrentNeuralNetworks.ipynb
+Recurrent Neural Network on MNIST. Validation accuracy = 0.98
+
 # TensorFlowClassification2VGG16.ipynb
 Implementation of the VGG16 network (from scratch) to be trained on the CIFAR10 dataset. Test accuracy= 0.81 (compared to 0.68 on a basic Convnet). My understanding is that there should be some image pre-processing done first...?
 
