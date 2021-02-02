@@ -1,3 +1,6 @@
+# BasicConvnetOnMNIST.ipynb
+Basic Convnet on MNIST, validation accuracy approx 0.98.
+
 # RecurrentNeuralNetworks.ipynb
 Recurrent Neural Network on MNIST, following Sentdex's youtube video. Validation accuracy = 0.98
 
