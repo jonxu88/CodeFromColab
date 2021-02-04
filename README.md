@@ -1,3 +1,8 @@
+# Project_Banana_Classifier.ipynb
+Given a picture of a banana, classify it as green, overripe, or ripe. Can try using MobileNetV2, ResNet50, and VGG16.
+This is code following a code along run by Jackie Tan, from UpLevel's Data Science Code-Along. 
+See https://www.eventbrite.com.au/x/pythondl-code-along-is-my-banana-ripe-yet-tickets-138204999875
+
 # BasicConvnetOnMNIST.ipynb
 Basic Convnet on MNIST, validation accuracy approx 0.98.
 
