@@ -1,3 +1,7 @@
+# TensorFlowClassification2XceptionUsingAPI.ipynb
+Implementation of the XCeption network (from Keras on the CIFAR10 dataset, trained on the CIFAR10 dataset. 
+Test accuracy = 0.81.
+
 # Project_Banana_Classifier.ipynb
 Given a picture of a banana, classify it as green, overripe, or ripe. Can try using MobileNetV2, ResNet50, and VGG16.
 This is code following a code along run by Jackie Tan, from UpLevel's Data Science Code-Along. 
