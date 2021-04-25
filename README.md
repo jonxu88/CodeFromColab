@@ -1,3 +1,6 @@
+# Section2_9PythonによるAIUsingNeuralNetworks.ipynb
+Section 2.9 of the Textbook PythonによるAIプログラミング入門 trains a Support Vector Machine (SVM) on the Census Income dataset (http://archive.ics.uci.edu/ml/datasets/Census+Income). I altered it to use a Neural Network instead.
+
 # TensorFlowClassification2XceptionUsingAPI.ipynb
 Implementation of the XCeption network (from Keras on the CIFAR10 dataset, trained on the CIFAR10 dataset. 
 Test accuracy = 0.81.
